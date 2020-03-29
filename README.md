@@ -12,3 +12,4 @@ Try to create different test cases that are compiled for various compilers, arch
 - unsigned_int_cmp.c - [ARM gcc 8.2 -O3](https://godbolt.org/z/xUm-UW)
 - scanf_printf_local.c - [ARM gcc 8.2 -O3](https://godbolt.org/z/52cLCQ)
 - switch-3.c - [ARM gcc 8.2 -O3](https://godbolt.org/z/9Tr68Y)
+- if_blocks_compund_lit.c - [ARM gcc 8.2 -O3](https://godbolt.org/z/pauxBQ)
